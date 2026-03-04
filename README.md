@@ -330,21 +330,6 @@ Advanced parser with NLTK tokenization and stopword filtering.
   - `statistics.mean` - Average calculations
   - `string.punctuation` - Punctuation removal
 
-## Course Information
-
-- **Course:** DS 3500 - Advanced Programming with Data
-- **Institution:** Northeastern University
-- **Assignment:** HW 7 - Extensible NLP Frameworks
-- **Status:** Processed
-- **Score:** 94.0/100
-
-## Project Configuration
-
-The project includes a `metadata.yml` file with submission information:
-- **Project ID:** 245421083
-- **Status:** Processed
-- **Created:** April 10, 2024
-
 ## Important Notes
 
 - **Stopwords File Required:** The `stopwords.txt` file must be present in the project directory for proper word filtering
@@ -404,17 +389,7 @@ def my_custom_parser(self, filename):
 
 ## Contributing
 
-This is an academic project. For questions or improvements, please contact the project team members.
-
-## Acknowledgments
-
-- Northeastern University Faculty
-- NLTK Project for NLP tools
-- Classic literature authors for providing excellent texts for analysis
-
----
-
-**Last Updated:** March 4, 2026  
-**Repository:** https://github.com/iggygonzales/NLP_Short_Stories  
+This is an academic project. For questions or improvements, please contact Miguel Gonzales.
+ 
 **Language:** Python 3  
 **License:** Educational Use
